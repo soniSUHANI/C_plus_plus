@@ -16,11 +16,20 @@ using namespace std;
 //
 //}while(index<33);
 
+//for (int i=0; i<34 ; i++)
+//{
+//	cout<<"The value of i is"<<i<<endl;
+//	
+//}
+//
+//return 0;
 
-for (int i=0; i<34 ; i++)
-{
-	cout<<"The value of i is"<<i<<endl;
-	
-}
 
+int main(){
+	for (int i=0;i<34<i++)
+	{
+		cout<<"Thevalue of i is"<<i<<endl;
+		
+	}
 return 0;
+}
