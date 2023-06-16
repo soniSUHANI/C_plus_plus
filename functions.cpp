@@ -16,7 +16,7 @@ int main(){
 	cout<<"Enter second number: "<<endl;
 	cin>>b;
 	
-	cout<<"The function returned"<<add(a,b);
+	cout<<"The function returned: "<<add(a,b);
 	
 	return 0;
 	
